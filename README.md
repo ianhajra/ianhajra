@@ -3,8 +3,6 @@
 My name is Ian Hajra! I'm an 18 year old student
 who is just beginning my coding journey!
 
-I'm currently working on mastering the basics of Java :)
-
 <!--
 **ianhajra/ianhajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
