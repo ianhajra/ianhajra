@@ -2,7 +2,7 @@
 
 My name is Ian Hajra! I'm an 19 year old sophomore
 at Brown University, where I am studying Applied-Mathematics
-and Computer Science
+and Computer Science.
 
 <!--
 **ianhajra/ianhajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
