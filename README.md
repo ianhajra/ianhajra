@@ -4,6 +4,7 @@ My name is Ian Hajra! I'm an 19 year old sophomore
 at Brown University, where I am studying Applied-Mathematics
 and Computer Science. I'm a member of the ATLAS Research Group
 at Brown, where I am improving the portability and usability of the PaSh ecosystem.
+In my free time, I love to play jazz piano and have recently gotten into rock climbing!
 
 <!--
 **ianhajra/ianhajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
