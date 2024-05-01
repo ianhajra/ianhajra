@@ -1,6 +1,6 @@
 Hi there! 👋
 
-My name is Ian Hajra and I'm a 20 year old sophomore at Brown University. I am studying applied mathematics and computer science. I recently joined the ATLAS Research Group where I am improving the portability and usability of the PaSh ecosystem.
+My name is Ian Hajra and I'm a 20 year old sophomore at Brown University. I am studying applied mathematics and computer science. I will be joining the Kim Lab at Roswell Park this summer, where I will be contributing to Bioinformatics efforts.
 In my free time, I love to play jazz piano and have recently gotten into rock climbing!
 
 <!--
