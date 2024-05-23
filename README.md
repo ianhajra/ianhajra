@@ -1,7 +1,6 @@
 Hi there! 👋
 
-My name is Ian Hajra and I'm a 20 year old sophomore at Brown University. I am studying applied mathematics and computer science. I will be joining the Kim Lab at Roswell Park this summer, where I will be contributing to Bioinformatics efforts.
-In my free time, I love to play jazz piano and have recently gotten into rock climbing!
+My name is Ian Hajra and I am a 20-year-old sophomore at Brown University. My academic and professional interests lie in the intersections of applied math and computer science and in the construction of computer systems. I have a profound interest in cryptography and cybersecurity, and am excited to further explore these dynamic fields.
 
 <!--
 **ianhajra/ianhajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
