@@ -1,6 +1,6 @@
 Hi there! 👋
 
-My name is Ian Hajra and I am a 21-year-old junior at Brown University. My academic and professional interests lie in the intersections of applied math and computer science and in the construction of computer systems. I have a deep passion for these fields and look forward to exploring them both independently and professionally.
+My name is Ian Hajra and I am a 21-year-old rising senior at Brown University. My academic and professional interests lie in the intersections of applied math and computer science and in the construction of computer systems. I have a deep passion for these fields and look forward to exploring them both independently and professionally.
 
 <!--
 **ianhajra/ianhajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
