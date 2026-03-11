@@ -1,6 +1,6 @@
 Hi there! 👋
 
-My name is Ian Hajra and I am a 21-year-old senior at Brown University studying Applied Mathematics and Computer Science. In 2026, I will be joining Bloomberg LP as a Software Engineer. My interests span systems programming, computer security, and machine learning. I'm passionate about building impactful, high-performance software.
+My name is Ian Hajra and I am a 21-year-old senior at Brown University studying Applied Mathematics and Computer Science. This summer, I will be joining Bloomberg LP as a Software Engineer. My interests span systems programming, computer security, and machine learning. I'm passionate about building impactful, high-performance software.
 <!--
 **ianhajra/ianhajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
